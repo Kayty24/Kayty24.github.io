@@ -1,0 +1,135 @@
+html{
+    width: 100%;
+}
+
+body{
+    width: 100%;
+    /* background-color: rgb(253, 255, 255); */
+    background-color: rgb(249, 254, 255);
+    font-family: 'Fira Sans', sans-serif;
+    color: gray;
+}
+
+body img{
+    box-shadow: 5px 5px 5px rgb(249, 252, 252);
+}
+
+nav img, footer img{
+    box-shadow: 0px 0px;
+}
+
+img{
+    border-radius: 20px;
+}
+
+/* Opening img */
+#div2{
+    display: flex;
+    justify-content: center;
+}
+
+/* Center, one-line paras */
+.class1 {
+    text-align: center;
+    color: rgb(58, 220, 131);
+    font-weight: 900;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 1.5em;
+}
+
+h1{
+    /* margin-left: 75px; */
+    font-size: 200%;
+    color: black;
+    font-family: 'Yeseva One', cursive;
+}
+
+h2{
+    color: black;
+    font-family: 'Architects Daughter', cursive;
+}
+
+/* Canada on world map */
+#id1{
+    float: right;
+    position: relative;
+    top: -50px;
+}
+
+/* Location left para */
+.class2{
+    margin-left: 75px;
+    padding-top: 50px;
+}
+
+/* Left img */
+.class3{
+    float: left;
+    margin-left: 75px;
+    margin-right: 100px;
+}
+
+/* Right para */
+.class4{
+    width: 94%;
+    padding-top: 40px;
+}
+
+/* Right img */
+.class5{
+    float: right;
+    position: relative;
+    left: -85px;
+}
+
+/* Left para */
+.class6{
+    margin-left: 75px;
+    width: 50%;
+    padding-top: 40px;
+}
+
+/* Left img */
+.class7{
+    float: left;
+    margin-left: 75px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/* Right Para */
+.class8{
+    width: 94%;
+}
+
+/* Right Img */
+.class9{
+    float: right;
+    margin-left: 100px;
+    margin-top:200px;
+}
+
+li{
+    color: gray;
+    list-style-type: none;
+    /* list-style-image: url('/Images/1076826.png') ; */
+}
+
+li::before {   
+    content: '';   
+    display: inline-block;   
+    height: 20px;   
+    width: 20px;    
+    background-size: 20px;   
+    background-image: url('/Images/1076826.png') ;
+    background-repeat: no-repeat;   
+    margin-right: 10px;
+    background-position: center center;
+    vertical-align: middle;
+}
+
+#div1{
+    min-width:1360px;
+    max-width: 1400px;
+}
