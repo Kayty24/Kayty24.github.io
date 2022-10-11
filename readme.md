@@ -8,6 +8,8 @@
 
 - [x] Created fauna page for ARCTIC FOX
 - [x] Collected content and resources for the project
+- [x] Created a consistent header, navigation, and footer area for the group project
+- [x] Created a style guide for the project
 
 ## Learning curve and challenges
 
