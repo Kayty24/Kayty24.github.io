@@ -10,12 +10,14 @@
 - [x] Collected content and resources for the project
 - [x] Created a consistent header, navigation, and footer area for the group project
 - [x] Created a style guide for the project
+- [x] Made page responsive
 
 ## Learning curve and challenges
 
 - Learned how to use google fonts
 - Learned how to use images as bullets in lists
 - Familiarized with usage of border-radius CSS property
+- Familiarized with usage of CSS flexbox and grid
 
 ## Resources
 
