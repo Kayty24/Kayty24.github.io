@@ -1,4 +1,4 @@
-## Assignment Name: : Project Task List 4
+## Assignment Name: : Project Task List 7
 
 ## Name: Keziah Thomas
 
@@ -10,7 +10,7 @@
 - [x] Collected content and resources for the project
 - [x] Created a consistent header, navigation, and footer area for the group project
 - [x] Created a style guide for the project
-- [x] Made page responsive
+- [x] Made pages responsive
 - [x] Created fauna page for ARCTIC HARE
 - [x] Created fauna page for KILLER WHALE
 
