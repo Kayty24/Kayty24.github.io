@@ -5,7 +5,7 @@ html{
 body{
     width: 100%;
     /* background-color: rgb(253, 255, 255); */
-    background-color: rgb(249, 254, 255);
+    background-color: rgb(252, 250, 252);
     font-family: 'Fira Sans', sans-serif;
     color: gray;
     /* display: grid;
@@ -33,7 +33,7 @@ img{
 /* Center, one-line paras */
 .class1 {
     text-align: center;
-    color: rgb(58, 220, 131);
+    color: rgb(24, 177, 129);
     font-weight: 900;
     font-family: 'Gemunu Libre', sans-serif;
     font-size: 1.5em;
@@ -106,7 +106,7 @@ h2{
     /* float: left; */
     /* margin-left: 75px; */
     margin-right: 100px;
-    margin-top: 100px;
+    margin-top: 90px;
 }
 
 /* Right Para */
@@ -121,6 +121,7 @@ h2{
     /* float: right; */
     margin-left: 100px;
     margin-top: 170px;
+
 }
 
 .class9 li{
