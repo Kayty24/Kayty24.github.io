@@ -13,13 +13,15 @@
 - [x] Made pages responsive
 - [x] Created fauna page for ARCTIC HARE
 - [x] Created fauna page for KILLER WHALE
+- [x] Created animal merchandise page
 
 ## Learning curve and challenges
 
 - Learned how to use google fonts
 - Learned how to use images as bullets in lists
 - Familiarized with usage of border-radius CSS property
-- Familiarized with usage of CSS flexbox and grid
+- Familiarized with and implemented CSS flexbox and grid
+- Learned to do image rollover with CSS
 
 ## Resources
 
@@ -40,4 +42,14 @@
 - https://freerepublic.com/focus/news/2658039/posts
 - https://www.publicdomainpictures.net/en/view-image.php?image=211653&picture=killer-whale
 - https://theconversation.com/talking-killer-whale-reveals-orcas-can-learn-to-mimic-human-speech-90726
+- https://www.zazzle.ca/cute_animals_t_shirt-235683691513370389?rf=238128175144617669&tc=&gsrc=&utm_source=bing&utm_medium=cpc&utm_campaign=ca_shopping&utm_term=&msclkid=b8adf7ef4bc410d92082948763ce34f2
+- https://www.zazzle.ca/pd/spp/pt-zazzle_bag?tdid=b3be1aaa-90ac-47ec-a249-b29d228e08a8
+- https://www.zazzle.ca/pd/spp/pt-zazzle_hat?tdid=b3be1aaa-90ac-47ec-a249-b29d228e08a8
+- https://www.zazzle.ca/pd/spp/pt-zazzle_apron?tdid=b3be1aaa-90ac-47ec-a249-b29d228e08a8
+- https://www.zazzle.ca/pd/spp/pt-zazzle_babyblanket?tdid=b3be1aaa-90ac-47ec-a249-b29d228e08a8
+- https://www.zazzle.ca/pd/spp/pt-mojo_throwpillow?tdid=b3be1aaa-90ac-47ec-a249-b29d228e08a8
+- https://www.zazzle.ca/pd/spp/pt-zazzle_reusablebag?tdid=b3be1aaa-90ac-47ec-a249-b29d228e08a8
+- https://www.zazzle.ca/pd/spp/pt-zazzle_babybib?tdid=b3be1aaa-90ac-47ec-a249-b29d228e08a8
+- https://www.zazzle.ca/pd/spp/pt-aif_keychain?tdid=b3be1aaa-90ac-47ec-a249-b29d228e08a8
+- https://www.zazzle.ca/pd/spp/pt-may28th_watch?tdid=2b037334-64bd-48ba-85b3-ce70db73b0a3
 
