@@ -1,20 +1,21 @@
-.navclass, .home, main{
-    height: 30%;
+.home, main{
+    height: 100%;
 }
 
-.home h1, h2 {
+.navclass, .home h1, h2 {
+    width: 100%;
     text-align: center;
     text-shadow: 2px 2px 2px gray;
 }
 
 .home h1 {
     font-family: 'Abril Fatface', cursive;
-    font-size: 50px;
+    font-size: 3.5em;
 }
 
 .home h2 {
     font-family: 'Signika Negative', sans-serif;
-    font-size: 30px;
+    font-size: 2em;
     margin-bottom: 130px;
 }
 
@@ -30,10 +31,9 @@ main h3 {
 
 main {
     display: grid;
-    grid-template: repeat(8, 1fr)/ repeat(2, 1fr);
+    grid-template: repeat(6, 1fr)/ repeat(2, 1fr);
     grid-gap: 270px 100px;
-    margin-left: 35px;
-    margin-top: 75px;
+    padding: 2em 7em;
 }
 
 #image1 {
@@ -52,14 +52,14 @@ main {
 
 #image2 {
     background-image: url('/Images/totefront.PNG');
-    width: 650px;
+    width: 600px;
     height: 660px;
     background-repeat: no-repeat;
 }
 
 #image2:hover {
     background-image: url('/Images/toteback.PNG');
-    width: 650px;
+    width: 600px;
     height: 660px;
     background-repeat: no-repeat;
 }
@@ -165,4 +165,17 @@ button {
     height: 40px;
     background-color: rgb(41, 249, 41);
     font-weight: bold;
+}
+
+@media only screen and (max-width: 950px) {
+
+    main {
+        display: grid;
+        grid-template: repeat(11, 1fr)/ repeat(1, minmax(1px,100%));
+        /* grid-template: repeat(11, 1fr)/ repeat(1, minmax(1,1fr)); */
+    }
+
+    .home h1, h2 {
+        width: 950px;
+    }
 }
