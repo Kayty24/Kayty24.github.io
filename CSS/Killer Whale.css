@@ -30,6 +30,14 @@ img{
     justify-content: center;
 }
 
+#class00, .class0 img {
+    height: 400px;
+}
+
+#slides img {
+    display: none;
+}
+
 /* Center, one-line paras */
 .class1{
     text-align: center;
@@ -154,7 +162,7 @@ h2{
         font-size: 0.6em;
     }
 
-    #class0{
+    #class00, .class0 img{
         height: 50%;
         width: 50%;
     }
