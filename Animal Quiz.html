@@ -1,131 +1,63 @@
-body{
-    padding: 0;
-    margin: 0;    
-    width:100vw;
-    height: 100vh;    
-}
-.panel{
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    top: -100px;
-}
-.question-container{
-    margin: 10px;
-    padding: 5px;
-    width: 80vw;
-    height: 10vh;
-    background-color: #24e9ff;
-    font-size: x-large;
-    text-align: center;
-      
-}
-.result{
-    margin: 10px;
-    padding: 5px;
-    width:80vw;
-    height: 10vh;
-    text-align: center;
-    font-size: 50px;
-      
-}
-.option-container{
-    display: flex;
-    justify-content: space-around; 
-    margin: 10px;
-    padding: 5px;
-    width: 80vw;
-    height: 20vh;
-    background-color: #b9f8ff;
-    align-items: center;   
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Animal Quiz</title>
+        <meta charset="utf-8">
+        <link rel="shortcut icon" href="Images/Thumbnail.png">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Satisfy&family=Signika+Negative&display=swap" rel="stylesheet">
+        <meta
+          name="description"
+          content="Animal Quiz">
+        <meta
+          name="keywords"
+          content="animal, quiz">
+        <link rel="stylesheet" href="CSS/home.css">
+        <link rel="stylesheet" href="CSS/footer.css">
+        <link rel="stylesheet" href="CSS/common.css">
+        <link rel="stylesheet" href="CSS/header.css">
+        <link rel="stylesheet" href="CSS/AnimalQuiz.css">
+    </head>
+    <body>
+        <div class="navclass"></div>
+        <section class="home">
+            <header>
+                <h1>Welcome to CANSAVE Animal Quiz</h1>
+            </header>
+            <div class="panel">
+                <div class="result">
         
-}
-.option{    
-    padding: 10px;
-    width: 15vw;
-    height: 15vh;
-    font-size: smaller;
-    background-color: lightskyblue;
-    border-radius: 25%;
-}
-.option:hover{
-    background-color: rgb(255, 239, 119);
-}
-.navigation{
-    width: 80vw;
-    height: 10vh;
-    margin: 10px;
-    padding: 5px;
-    display: flex;
-    justify-content: space-around;
-    background-color:#c3eef3;
-}
-  
-.evaluate,.next{
-    width:30vw;
-    height: 8vh;
-    padding: 5px;
-    font-size: larger;
-}
-.evaluate{
+                </div>
+                <div class="question-container" id="question">
+                    Question goes here.
+                </div>
+                <div class="option-container">
+                    <button class="option" onclick="" id="op1" >option1</button>
+            
+                    <button class="option" id="op2" >option2</button>
+            
+                    <button class="option" id="op3">option3</button>
+            
+                    <button class="option" id="op4">option4</button>
+                </div>
+                <div class="navigation">
+                    <button class="evaluate">Evaluate</button>
+                    <button class="next">Next</button>
+                </div>
+            </div>
+        </section>
+        <div class="footerclass"></div>
+        <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+        <script src="/script/quiz.js"></script>
+    </body>
+</html>
     
-    background-color: #00ffb7;
-}
-.next{
-    color: white;
-    background-color: #ff594a;
-}
-
-.home, main{
-    height: 100%;
-    /* margin-top: 10rem; */
-}
-
-.navclass, header h1 {
-    width: 100%;
-    text-align: center;
-    /* text-shadow: 2px 2px 2px gray; */
-}
-
-header h1 {
-    font-family: 'Abril Fatface', cursive;
-    font-size: 3.5em;
-    margin-top: 3em;
-}
-
-@media only screen and (max-width: 760px) {
-
-    .html, body {
-        min-width: 300px;
-    }
-
-    .panel, .question-container, .option-container, .option, .navigation, .evaluate, .next {
-        width: 75%;
-        font-size: 90%;
-    }
-
-    .option-container{
-        display: grid;
-        grid-template: repeat(1, 1fr)/ repeat(2, 1fr);
-        height: fit-content;
-        text-align: center;
-        
-    }
-
-    .navigation{
-        margin-bottom: 100px;
-    }
-
-    header h1 {
-        font-size: 90%;
-        font-size: large;
-        margin-top: 100px;
-        width: 75%;
-        text-align: center;
-
-    }
-}
-
+<script type="text/javascript">
+    $(function () {
+    $(".navclass").load("navigation.html");
+    });
+    $(function () {
+    $(".footerclass").load("footer.html");
+    });
+</script>
