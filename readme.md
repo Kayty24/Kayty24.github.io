@@ -33,7 +33,7 @@
 - https://stackoverflow.com/questions/48956680/how-to-resize-list-style-images
 - https://animalia.bio/arctic-hare
 - https://www.pinterest.ca/pin/118149190199022442/
-- https://www.dreamstime.com close-up-hare-s-foot-fern-close-up-hare-s-foot-fern-davallia-canariensis-showing-rhizomes-white-pot-white-image154272068
+- https://www.dreamstime.com/close-up-hare-s-foot-fern-close-up-hare-s-foot-fern-davallia-canariensis-showing-rhizomes-white-pot-white-image154272068
 - https://4dcwebdesign.blogspot.com/2021/06/arctic-hare-diet.html
 - https://www.pinterest.ca/pin/arctic-hares--159526011785093754/
 - https://www.storytrender.com/34479/baby-hare-makes-incredible-ballerina-leap-siblings/
