@@ -1,4 +1,5 @@
-## Assignment Name: Project Task List 8
+## Assignment Name: : Project Phase 3
+
 
 ## Name: Keziah Thomas
 
@@ -6,16 +7,16 @@
 
 ## Tasks
 
-- [x] Created fauna page for ARCTIC FOX
-- [x] Collected content and resources for the project
-- [x] Created a consistent header, navigation, and footer area for the group project
-- [x] Created a style guide for the project
-- [x] Made pages responsive
-- [x] Created fauna page for ARCTIC HARE
-- [x] Created fauna page for KILLER WHALE
-- [x] Created animal merchandise page
+- [x]  Created fauna page for ARCTIC FOX
+- [x]  Collected content and resources for the project
+- [x]  Created a consistent header, navigation, and footer area for the group project
+- [x]  Created a style guide for the project
+- [x]  Made pages responsive
+- [x]  Created fauna page for ARCTIC HARE
+- [x]  Created fauna page for KILLER WHALE
+- [x]  Created animal merchandise page
 
-## Learning curve and challenges
+## Leaning curve and challenges
 
 - Learned how to use google fonts
 - Learned how to use images as bullets in lists
@@ -32,7 +33,7 @@
 - https://stackoverflow.com/questions/48956680/how-to-resize-list-style-images
 - https://animalia.bio/arctic-hare
 - https://www.pinterest.ca/pin/118149190199022442/
-- https://www.dreamstime.com/close-up-hare-s-foot-fern-close-up-hare-s-foot-fern-davallia-canariensis-showing-rhizomes-white-pot-white-image154272068
+- https://www.dreamstime.com close-up-hare-s-foot-fern-close-up-hare-s-foot-fern-davallia-canariensis-showing-rhizomes-white-pot-white-image154272068
 - https://4dcwebdesign.blogspot.com/2021/06/arctic-hare-diet.html
 - https://www.pinterest.ca/pin/arctic-hares--159526011785093754/
 - https://www.storytrender.com/34479/baby-hare-makes-incredible-ballerina-leap-siblings/
@@ -53,4 +54,3 @@
 - https://www.zazzle.ca/pd/spp/pt-aif_wallclock?tdid=77d45dc3-601e-473c-a7c1-2af4807785a0
 - https://www.zazzle.ca/pd/spp/pt-may28th_watch?tdid=2b037334-64bd-48ba-85b3-ce70db73b0a3
 - https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/
-
