@@ -208,6 +208,10 @@ evaluate[0].addEventListener("click", () => {
         result[0].innerHTML = "False";
         result[0].style.color = "red";
     }
+    op1.style.backgroundColor = "lightskyblue";
+    op2.style.backgroundColor = "lightskyblue";
+    op3.style.backgroundColor = "lightskyblue";
+    op4.style.backgroundColor = "lightskyblue";
 })
 }
 
@@ -226,5 +230,8 @@ if (id < 12) {
     iterate(id);
     console.log(id);
 }
-
+op1.style.backgroundColor = "lightskyblue";
+op2.style.backgroundColor = "lightskyblue";
+op3.style.backgroundColor = "lightskyblue";
+op4.style.backgroundColor = "lightskyblue";
 })
